@@ -2,15 +2,15 @@
 
 export NEZHA_SERVER=${NEZHA_SERVER:-'data.langyun.pp.ua'}
 export NEZHA_PORT=${NEZHA_PORT:-'443'}
-export NEZHA_KEY=${NEZHA_KEY:-'WBeJAzWX8xfWLgZOr9'}
+export NEZHA_KEY=${NEZHA_KEY:-'9ho73v75iq8eXT2EBc'}
 export TLS=${TLS:-'1'}
-export ARGO_DOMAIN=${ARGO_DOMAIN:-''}
+export ARGO_DOMAIN=${ARGO_DOMAIN:-'argo01.along.pp.ua'}
 export WEB_DOMAIN=${WEB_DOMAIN:-'example.com'}
-export ARGO_AUTH=${ARGO_AUTH:-''}
+export ARGO_AUTH=${ARGO_AUTH:-'{"AccountTag":"49b62d450063144c4cd0b5f0fefb2969","TunnelSecret":"mi7uA58BjHtvppAkVvQoEQt5FXZQ+0rDq+GUEs/U6fk=","TunnelID":"a0c70887-47ad-440f-9669-c156b64d99ca"}'}
 export WSPATH=${WSPATH:-'argo'}
-export UUID=${UUID:-'c73b017a-7928-4677-862c-960c2befe7cd'}
+export UUID=${UUID:-'32939ec4-fea6-4441-83d1-940ad2aea210'}
 export CFIP=${CFIP:-'nasa.along.pp.ua'}
-export NAME=${NAME:-''}
+export NAME=${NAME:-'scalingo，30天'}
 export SERVER_PORT="${SERVER_PORT:-${PORT:-3000}}"
 export port1=${port1:-'8080'}
 
